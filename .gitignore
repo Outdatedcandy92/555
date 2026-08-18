@@ -8,4 +8,3 @@ dist/
 npm-debug.log*
 coverage/
 *.log
-static/guides/media/
