@@ -1,0 +1,20 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">555 Timer Placeholder</title>
+  <desc id="desc">A neutral placeholder image for a 555 timer chip with a simple labeled box.</desc>
+  <rect width="800" height="420" fill="#d9d9d9"/>
+  <rect x="180" y="70" width="440" height="280" rx="18" fill="#1b1b1b" stroke="#000" stroke-width="6"/>
+  <rect x="220" y="105" width="360" height="54" fill="#2d2d2d" stroke="#000" stroke-width="2"/>
+  <text x="400" y="142" font-family="Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#efefef">NE555N</text>
+  <text x="400" y="245" font-family="Arial, sans-serif" font-size="50" font-weight="700" text-anchor="middle" fill="#efefef">555 TIMER</text>
+  <text x="400" y="295" font-family="Arial, sans-serif" font-size="26" font-weight="600" text-anchor="middle" fill="#d7d7d7">PLACEHOLDER</text>
+  <g stroke="#0a0a0a" stroke-width="4" stroke-linecap="round">
+    <line x1="180" y1="130" x2="140" y2="130"/>
+    <line x1="180" y1="180" x2="140" y2="180"/>
+    <line x1="180" y1="230" x2="140" y2="230"/>
+    <line x1="180" y1="280" x2="140" y2="280"/>
+    <line x1="620" y1="130" x2="660" y2="130"/>
+    <line x1="620" y1="180" x2="660" y2="180"/>
+    <line x1="620" y1="230" x2="660" y2="230"/>
+    <line x1="620" y1="280" x2="660" y2="280"/>
+  </g>
+</svg>

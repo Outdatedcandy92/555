@@ -1,0 +1,11 @@
+node_modules/
+.svelte-kit/
+.vite/
+build/
+dist/
+.vscode/
+.DS_Store
+npm-debug.log*
+coverage/
+*.log
+static/guides/media/
