@@ -1,11 +1,8 @@
 import { readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
 import { marked } from 'marked';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const guidesDirectory = path.resolve(__dirname, '../../lib/guides');
+const guidesDirectory = path.resolve(process.cwd(), 'src/lib/guides');
 const guideOrder = ['getting-started', '555', 'falstad', 'submitting'];
 
 function parseFrontmatter(raw: string) {
