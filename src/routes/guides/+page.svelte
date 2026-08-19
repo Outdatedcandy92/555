@@ -17,7 +17,7 @@
 			<a class="nav-link" href="/">Home</a>
 			<a class="nav-link" href="/#about">About</a>
 			<a class="nav-link active" href="/guides">Guide</a>
-			<a class="nav-link submit-link" href="/#submit">Submit</a>
+			<a class="nav-link submit-link" href="https://forms.hackclub.com/555">Submit</a>
 		</nav>
 	</header>
 

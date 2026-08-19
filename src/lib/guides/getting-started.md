@@ -1,8 +1,7 @@
 ---
-title: "Getting Started"
-subtitle: "A quick start guide for the 555 event and how to begin."
+title: Getting Started
+subtitle: Start your 555 circuit project
 ---
-
 
 ## What is this? 
 

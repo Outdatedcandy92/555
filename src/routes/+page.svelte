@@ -21,11 +21,11 @@
 		<nav class="nav" aria-label="Main navigation">
 			{#each navItems as item}
 				{#if item === 'Submit'}
-					<a class="nav-link submit-link" href="/submit">{item}</a>
+					<a class="nav-link submit-link" href="https://forms.hackclub.com/555">{item}</a>
 				{:else}
 					<a
 						class="nav-link"
-						href={item === 'Home' ? '#top' : item === 'About' ? '#about' : item === 'Guide' ? '/guides' : '/submit'}
+						href={item === 'Home' ? '#top' : item === 'About' ? '#about' : item === 'Guide' ? '/guides' : 'https://forms.hackclub.com/555'}
 					>
 						{item}
 					</a>
@@ -57,7 +57,7 @@
 				</div>
 				<div class="step-card step-two right-step">
 					<div class="blue-strip"></div>
-					<p>2. <a class="inline-link" href="submit">Submit your project</a>.</p>
+					<p>2. <a class="inline-link" href="https://forms.hackclub.com/555">Submit your project</a>.</p>
 				</div>
 				<div class="step-card step-three left-step">
 					<div class="blue-strip"></div>

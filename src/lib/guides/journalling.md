@@ -1,8 +1,7 @@
 ---
-title: "Journalling"
-subtitle: "Useful guidance for keeping a clear project journal while you build."
+title: Journalling
+subtitle: Document your design process and progress
 ---
-
 
 ## What is a Journal?
 
