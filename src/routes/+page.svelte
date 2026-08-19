@@ -65,7 +65,7 @@
 				</div>
 				<div class="step-card step-four right-step">
 					<div class="blue-strip"></div>
-					<p>4. You’ll also receive a massive 3D-printed 555 timer if your project is really good.</p>
+					<p>4. You’ll also receive a massive 3D-printed 555 timer if your project is really cool.</p>
 				</div>
 			</div>
 			<div id="submit" class="submit-anchor" aria-hidden="true"></div>

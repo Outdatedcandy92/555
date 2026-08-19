@@ -3,7 +3,7 @@ import path from 'node:path';
 import { marked } from 'marked';
 
 const guidesDirectory = path.resolve(process.cwd(), 'src/lib/guides');
-const guideOrder = ['getting-started', '555', 'falstad', 'submitting'];
+const guideOrder = ['getting-started', '555', 'falstad', 'journalling', 'submitting'];
 
 function parseFrontmatter(raw: string) {
 	const match = raw.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
